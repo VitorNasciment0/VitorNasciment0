@@ -1,5 +1,5 @@
 - Olá, eu sou @VitorNasciment0
-- 👀 Tenho interesse em Front End, Desenvolvedor de App Mobile e Criação de sites
+- 👀 Tenho interesse em Front End, Backend, Desenvolvedor de App Mobile e Criação de sites
 - 🌱 Atualmente estou aprendendo, Phyton, Html, C#, CSS e Javascript
 - 💞️ Estou procurando colaborar em ...
 - 📫 Como chegar até mim...
